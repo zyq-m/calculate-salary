@@ -9,7 +9,7 @@ During the development process I've used:
 
 - Java
 - Netbeans IDE
-- OOP concept
+- OOP Principle
 - Java Swing GUI
 
 ## Installation
