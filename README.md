@@ -1,7 +1,7 @@
 ## About The Project
 
 Calculate Salary is a program to calculate employee's salary; gross salary and net salary. 
-This project is build on top of Java and implementing Object Oriented Programming (OOP).
+This project is build on top of Java and implementing Object Oriented Programming (OOP) principles.
 
 ## Tools and Technologies
 
@@ -9,7 +9,7 @@ During the development process I've used:
 
 - Java
 - Netbeans IDE
-- OOP Principle
+- OOP Principles
 - Java Swing GUI
 
 ## Installation
